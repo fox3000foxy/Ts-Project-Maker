@@ -38,6 +38,9 @@ cd my-new-project
 npm install
 npm run dev
 ```
+![image](https://github.com/user-attachments/assets/283bfaf1-a3da-4ca4-865b-9d2489be2bc0)
+![image](https://github.com/user-attachments/assets/9ef63702-b151-4ea9-b7fc-f7c6c060313d)
+
 
 ## 🔗 npm link
 
