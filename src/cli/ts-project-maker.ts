@@ -42,7 +42,8 @@ program
   .option("-v, --version <version>", "Project version", "1.0.0")
   .option("-a, --author <author>", "Project author")
   .action(async (options) => {
-    let { type, name, version, author } = options;
+    const { type } = options;
+    let { name, version, author } = options;
     switch (type) {
       case "api":
         console.log("Creating API project template...");
