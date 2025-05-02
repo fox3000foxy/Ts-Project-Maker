@@ -27,7 +27,7 @@ A simple CLI tool to quickly scaffold a new TypeScript project with a pre-config
 ## 🛠️ Installation
 
 ```bash
-npm install -g https://github.com/fox3000foxy/Ts-Project-Maker
+npm install -g .
 ```
 
 ## 💻 Usage
